@@ -1,0 +1,9 @@
+[user]
+	email = kieranblazier@gmail.com
+	name = Kieran Blazier
+[alias]
+	update = pull origin staging
+	deploy = push origin staging
+[pivotal]
+	api-token = 433c84d2cffdddc5161c26c5ff5ac568
+	project-id = 2050201

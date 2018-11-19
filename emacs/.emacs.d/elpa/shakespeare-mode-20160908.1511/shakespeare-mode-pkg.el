@@ -1,0 +1,1 @@
+(define-package "shakespeare-mode" "20160908.1511" "A major mode for editing Shakespearean templates." 'nil :commit "0406a5ac4c98fcd171f0539c5cd88050aa351ea8" :url "http://github.com/CodyReichert/shakespeare-mode" :keywords '("shakespeare" "hamlet" "lucius" "julius" "mode"))

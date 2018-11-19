@@ -1,0 +1,11 @@
+pwd
+clear
+rails c
+clear
+cd ..
+clear
+rails c
+clear
+bundle exec rails c
+clear
+clear
